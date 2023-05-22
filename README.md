@@ -1,14 +1,14 @@
 # transfer
 
-run GitHub Auth
+**run GitHub Auth**
 - gh auth login
 
-lukepilk
-MeDeeConnor
+![snapshot](github auth.png)
 
 
-git commit -am "commit note"    (create a commit with message)
 
-git add .                       (adds everything within the folder)
+`git commit -am "commit note"`    (create a commit with message)
 
-git push origin main            (pushes updates to main)
+`git add .`                       (adds everything within the folder)
+
+`git push origin main`            (pushes updates to main)
