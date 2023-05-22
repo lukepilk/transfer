@@ -6,4 +6,4 @@ run GitHub Auth
 lukepilk
 Me+Deanna=Connor2010
 
-git push origin master
+git push origin main
