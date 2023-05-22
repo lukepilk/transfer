@@ -4,6 +4,6 @@ run GitHub Auth
 - gh auth login
 
 lukepilk
-Me+Deanna=Connor2010
+MeDeeConnor
 
 git push origin main
