@@ -3,7 +3,7 @@
 **run GitHub Auth**
 - gh auth login
 
-![snapshot](github auth.png)
+![snapshot](resources/github-auth.png)
 
 
 
