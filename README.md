@@ -5,7 +5,7 @@
 
 ![snapshot](resources/github-auth.png)
 
-
+**commands to add your stuff to the repo**
 
 `git commit -am "commit note"`    (create a commit with message)
 
